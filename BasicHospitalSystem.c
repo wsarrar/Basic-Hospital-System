@@ -1,5 +1,8 @@
 // Academic Project 2020
 
+// This program prompts the user to add a patient with their room number, display the current linked list of patients,
+// add a doctor structure (struct) assigned to a patient, set a floor number for the patient, and remove patients and doctors.
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
